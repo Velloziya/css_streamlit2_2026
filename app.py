@@ -64,7 +64,7 @@ if menu == "Academic Profile":
 
     # Display a fixed profile image
     st.image(
-        "D:/LAPTOP/Coding Summer School/Last_Streamlit/streamlit_files/1000064380.jpg",  # <-- Replace with your image path
+        "https://drive.google.com/file/d/14S6eEdAQYdCRCvjZieQCFmJw_hfPfJD2/view?usp=drive_link",  # <-- Replace with your image path
         caption="Profile Picture",
         use_container_width=True
     )
